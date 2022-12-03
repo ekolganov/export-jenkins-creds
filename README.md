@@ -7,7 +7,7 @@
 - FileCredentialsImpl (не парсит файлы, но извлекает из jenkins)
 
 ## Пример выгрузки creds
-![Example of creds](images/temp_file.png)
+![Example of creds](https://github.com/karamel32/export-jenkins-creds/raw/main/images/screenshot_1.png)
 
 ## Requirements
 установить значения переменных:
