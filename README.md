@@ -6,6 +6,9 @@
 - BasicSSHUserPrivateKey (парсит и может заргужать в vault)
 - FileCredentialsImpl (не парсит файлы, но извлекает из jenkins)
 
+## Пример выгрузки creds
+![Example of creds](images/temp_file.png)
+
 ## Requirements
 установить значения переменных:
 - jenkins_url="http://your-jenkins.local/script"
